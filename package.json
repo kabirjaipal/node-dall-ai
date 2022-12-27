@@ -1,0 +1,49 @@
+{
+  "name": "dall-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [
+    "openai",
+    "image-ai",
+    "image",
+    "discord",
+    "typescript",
+    "node",
+    "axios",
+    "dall-ai",
+    "dalle",
+    "nodejs",
+    "dalle-node",
+    "dalle-nodejs",
+    "dalle-node-js",
+    "dall-e",
+    "openai",
+    "ai",
+    "deep learning",
+    "openai-api",
+    "openai-api-js",
+    "dalle-api",
+    "dall-e-api",
+    "gpt-3",
+    "gpt3",
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kabirsingh2004/node-dall-ai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "node-dall-ai-2": "^1.0.3",
+    "nodejs-file-downloader": "^4.10.3"
+  }
+}
