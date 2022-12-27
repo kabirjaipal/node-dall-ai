@@ -116,6 +116,6 @@ console.log(firstImage);
 
 # Discord Bot Example
 
-[Visit](https://github.com/kabirsingh2004/dall-e-discord-bot]
+[Visit](https://github.com/kabirsingh2004/dall-e-discord-bot)
 
 <h1 align="center"> Thanks For Visiting Here </h1><br/>
